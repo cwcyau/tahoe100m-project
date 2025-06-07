@@ -22,4 +22,4 @@ The Tahoe-100M data set is the largest single-cell perturbation data set in the 
 
 ## Problem
 
-Let $$X_i^{(p)} \in \mathbb{R}^d$$ and $Z_i \in \\{1, \dots, P \\}$ denote 
+Let $$X_i \in \mathbb{R}^p$$ denote the $p$-dimensional gene expression profile for the $i$-th cell where $Y_i \in \\{1, \dots, T\\}$ denotes the corresponding cell type and $Z_i \in \\{1, \dots, D \\}$ the drug perturbation applied to the cell (includes no perturbation).
