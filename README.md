@@ -1,6 +1,6 @@
 # tahoe100m-project
 
-*Project Lead:* Christopher Yau
+**Project Lead:** Christopher Yau
 
 ## Pre-requisite requirements: 
 
@@ -9,7 +9,6 @@
 - Knowledge of Gaussian Process modelling (Fundamentals of AI 1)
 - Knowledge of variational inference (Fundamentals of AI 1)
 - Python (Software Engineering)
-
 
 ## Knowledge to be acquired:
 
